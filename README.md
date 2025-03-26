@@ -1,4 +1,3 @@
-```
 # 🎬 Movie Genre Classification
 
 A machine learning model that classifies movies into genres based on plot descriptions.  
@@ -32,7 +31,6 @@ This project uses **Natural Language Processing (NLP)** and **Machine Learning**
 ```bash
 git clone https://github.com/YOUR_USERNAME/movie-genre-classification.git
 cd movie-genre-classification
-```
 
 ### 2️⃣ **Create a Virtual Environment (Optional)**
 ```
