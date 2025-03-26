@@ -3,7 +3,7 @@
 A machine learning model that classifies movies into genres based on plot descriptions.  
 This project uses **Natural Language Processing (NLP)** and **Machine Learning** to analyze movie plots and predict their genres.
 
-🚀 **Live Demo:** [Click Here to Try the App]([https://your-streamlit-app-url](https://music-genre-classify.streamlit.app/))  
+🚀 **Live Demo:** [Click Here to Try the App](https://music-genre-classify.streamlit.app/)  
 
 ---
 
@@ -58,7 +58,7 @@ streamlit run app.py
 
 ## 🌍 Try the Live Deployed App
 We have deployed this project using **Streamlit Cloud**. You can access it here:  
-🔗 **Live Demo:** [Click Here to Try the App]([https://your-streamlit-app-url](https://music-genre-classify.streamlit.app/))
+🔗 **Live Demo:** [Click Here to Try the App](https://music-genre-classify.streamlit.app/)
 
 ---
 
