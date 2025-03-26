@@ -89,10 +89,10 @@ movie-genre-classification/
 
 3. **Evaluation Metrics**:  
    - **Accuracy, Precision, Recall, F1-score**
-         ✅ Accuracy: 91%
-         ✅ Precision: 89%
-         ✅ Recall: 90%
-         ✅ F1 Score: 89%
+        - ✅ Accuracy: 91%
+        - ✅ Precision: 89%
+        - ✅ Recall: 90%
+        - ✅ F1 Score: 89%
    - Identified common misclassifications and improved feature extraction.
 
 ---
