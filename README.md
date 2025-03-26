@@ -28,10 +28,10 @@ This project uses **Natural Language Processing (NLP)** and **Machine Learning**
 ## 🚀 How to Run the Project Locally
 
 ### 1️⃣ **Clone the Repository**
-```bash
+```
 git clone https://github.com/YOUR_USERNAME/movie-genre-classification.git
 cd movie-genre-classification
-
+```
 ### 2️⃣ **Create a Virtual Environment (Optional)**
 ```
 python -m venv env
